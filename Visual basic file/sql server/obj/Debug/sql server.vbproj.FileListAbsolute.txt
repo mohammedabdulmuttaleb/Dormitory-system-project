@@ -1,0 +1,27 @@
+E:\level 3 lecture & lab\SQL\sql server\sql server\bin\Debug\sql server.exe.config
+E:\level 3 lecture & lab\SQL\sql server\sql server\bin\Debug\sql server.exe
+E:\level 3 lecture & lab\SQL\sql server\sql server\bin\Debug\sql server.pdb
+E:\level 3 lecture & lab\SQL\sql server\sql server\bin\Debug\sql server.xml
+E:\level 3 lecture & lab\SQL\sql server\sql server\obj\Debug\sql server.vbprojResolveAssemblyReference.cache
+E:\level 3 lecture & lab\SQL\sql server\sql server\obj\Debug\sql_server.Form1.resources
+E:\level 3 lecture & lab\SQL\sql server\sql server\obj\Debug\sql_server.Resources.resources
+E:\level 3 lecture & lab\SQL\sql server\sql server\obj\Debug\sql server.vbproj.GenerateResource.Cache
+E:\level 3 lecture & lab\SQL\sql server\sql server\obj\Debug\sql server.exe
+E:\level 3 lecture & lab\SQL\sql server\sql server\obj\Debug\sql server.xml
+E:\level 3 lecture & lab\SQL\sql server\sql server\obj\Debug\sql server.pdb
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Debug\sql server.exe.config
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Debug\sql server.exe
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Debug\sql server.pdb
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Debug\sql server.xml
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql server.vbprojResolveAssemblyReference.cache
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql_server.Form1.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql_server.Form2.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql_server.Resources.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql server.vbproj.GenerateResource.Cache
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql server.exe
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql server.xml
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql server.pdb
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql_server.Delete.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql_server.Search.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql_server.View.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Debug\sql_server.Emergency.resources

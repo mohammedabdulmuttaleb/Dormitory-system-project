@@ -1,0 +1,23 @@
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.Delete.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.Emergency.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.Form1.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.Form2.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.Resources.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.Search.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.View.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql server.vbproj.GenerateResource.Cache
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql server.vbprojResolveAssemblyReference.cache
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql_server.Login.resources
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Release\student system.exe.config
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Release\student system.exe.manifest
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Release\student system.application
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Release\student system.exe
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Release\student system.pdb
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\bin\Release\student system.xml
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\student system.TrustInfo.xml
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\student system.exe.manifest
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\student system.application
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\student system.exe
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\student system.xml
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\student system.pdb
+E:\level 3 lecture & lab\SQL\Dorm1\sql server\obj\Release\sql server.vbproj.CoreCompileInputs.cache
